@@ -1,6 +1,6 @@
-# Tartar-file
+# I wrote the C language by myself.
 
-okkk
+
 
 
 
