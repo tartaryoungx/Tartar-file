@@ -1,0 +1,12 @@
+#include<stdio.h>
+
+main(){
+    int b,h,l;
+    printf("enter Base,enter High\n ");
+    scanf("%d%d",&b,&h);
+    l = b*h/2 ;
+    printf("Ans is : %d",l);
+
+
+
+}
