@@ -1,5 +1,5 @@
 # Tartar-file
-okk
+ok
 
 
 
