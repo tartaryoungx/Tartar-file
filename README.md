@@ -1,2 +1,4 @@
 # Tartar-file
-ทดลองคั้บผม
+All My C Project
+
+
